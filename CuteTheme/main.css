@@ -1,1 +1,10 @@
-
+:root {
+  --background-image: url('https://thatonefwoosh.github.io/CuteTheme/BG.png');
+  --popup-background: url('https://thatonefwoosh.github.io/CuteTheme/BG.png');
+  --background-blur: 0px;
+  --background-darkness: 0.75;
+  --main-color: #007dbd;
+  --hover-color: #03679b;
+  --roundness: 50px;
+  --shadow: rgba(0,0,0,.4);
+}
